@@ -1,0 +1,7 @@
+{
+  "name": "CampusRetriever AI",
+  "description": "An intelligent lost-and-found system for university campuses. Uses Gemini Vision to auto-tag items from photos and Gemini Language models to smartly match lost reports with found items based on semantic descriptions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
