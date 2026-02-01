@@ -1,24 +1,22 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CampusRetriever 🎓
 
-# Run and deploy your AI Studio app
+**CampusRetriever** is a specialized tool designed to simplify the retrieval and management of academic resources and campus data. Whether it's organizing lab assignments, tracking course materials, or managing student data, this project focuses on speed and efficiency through optimized data structures.
 
-This contains everything you need to run your app locally.
+## 🚀 Key Features
+* **Centralized Retrieval:** Quickly search through campus datasets or local resource directories.
+* **Efficient Data Management:** Built using robust Data Structures (DS) for optimal performance.
+* **Student-Centric Design:** Tailored specifically to solve common information hurdles faced by CS and Physics students.
+* **Lightweight & Fast:** Minimal dependencies for quick setup and execution.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Rl_BWW0BLBdnRN57oeko2F9My0Wm4JSY
+## 🛠️ Tech Stack
+* **Language:** [e.g., C / C++ / Python]
+* **Concepts:** Data Structures, File I/O, Search Algorithms.
+* **Tools:** Git, [e.g., GCC / VS Code].
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# campusretriever
->>>>>>> 26b939ef56e5c441ea4e6a3a531ff144cc7a458b
+## 📂 Project Structure
+```text
+campusretriever/
+├── src/            # Source code (.c, .py, etc.)
+├── data/           # Sample datasets or resource files
+├── docs/           # Documentation and lab reports
+└── README.md       # Project overview
